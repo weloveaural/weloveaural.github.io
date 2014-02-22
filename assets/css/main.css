@@ -312,6 +312,14 @@ a:after {
 	text-shadow: 1px 1px 1px #000;
 }
 
+#darkwrap {
+	background: #f5f5f5;
+	margin-top: 0px;
+	padding-top: 40px;
+	border-bottom: 1px solid #ddd;
+	text-align: center;
+}
+
 #greywrap {
 	background: #f5f5f5;
 	margin-top: 0px;
@@ -333,6 +341,12 @@ a:after {
 }
 
 #greywrap .icon {
+	font-size: 60px;
+	line-height: 30px;
+	margin-bottom: 10px;
+}
+
+#contact .icon {
 	font-size: 60px;
 	line-height: 30px;
 	margin-bottom: 10px;
